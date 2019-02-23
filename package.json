@@ -1,0 +1,36 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davliv/services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davliv/services/issues"
+  },
+  "homepage": "https://github.com/Davliv/services#readme",
+  "dependencies": {
+    "append-field": "^1.0.0",
+    "bleach": "^0.3.0",
+    "body-parser": "^1.18.3",
+    "circular-json": "^0.5.9",
+    "express": "^4.16.4",
+    "keygen": "^0.3.1",
+    "keygenerator": "^1.0.4",
+    "mongoose": "^5.2.8",
+    "multer": "^1.4.1",
+    "multer-autoreap": "^1.0.3",
+    "path": "^0.12.7",
+    "probe-image-size": "^4.0.0",
+    "request": "^2.88.0",
+    "validator": "^10.11.0"
+  }
+}
